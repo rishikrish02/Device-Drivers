@@ -10,6 +10,8 @@
 #define INC_STM32F4_SPI_H_
 
 
+#define x (10)
+
 typedef struct
 
 
