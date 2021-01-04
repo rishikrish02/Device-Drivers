@@ -11,7 +11,10 @@
 
 
 typedef struct
+
+
 {
+
 	uint8_t SPI_mode;
 	uint8_t SPI_bus_config;
 	uint8_t SPI_Dff;
